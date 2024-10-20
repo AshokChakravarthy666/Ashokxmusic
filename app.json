@@ -1,7 +1,7 @@
 {
-  "name": "ᴄʜᴧᴍᴘᴜ ꭙ ᴍᴜsɪᴄ",
+  "name": " 𝙰𝚂𝙷𝙾𝙺𝚇𝙶𝙷𝙾𝚂𝚃 ",
   "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-  "logo": "https://telegra.ph/file/43b46c02ace4d9b83c96f.jpg",
+  "logo": "https://envs.sh/p27.jpg",
   "keywords": [
   "python3",
   "telegram",
@@ -41,7 +41,7 @@
       },
       "OWNER_ID": {
         "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ ᴀs ᴏᴡɴᴇʀ..",
-        "value": "6399386263",
+        "value": "7510809023",
         "required": true
       },
       "STRING_SESSION": {
@@ -66,7 +66,7 @@
       },
       "UPSTREAM_REPO": {
         "description": " ᴘᴜᴛ ʏᴏᴜʀ ʀᴇᴘᴏ ʟɪɴᴋ ʜᴇʀᴇ .",
-        "value": "https://github.com/TheChampu/ChampuMusic",
+        "value": "https://github.com/AshokChakravarthy666/Ashokxmusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
