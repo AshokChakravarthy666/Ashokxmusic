@@ -55,7 +55,7 @@ Config vars are basically the variables which configure or modify bot to functio
 
 ## Spotify Vars
 
-- You can play tracks or playlists from spotify from Champu Music bot
+- You can play tracks or playlists from spotify from 𝙰𝚂𝙷𝙾𝙺𝚇𝙶𝙷𝙾𝚂𝚃 Music bot
 - You'll need these two vars to make spotify play working. This is not essential , you can leave them blank if you want.
 
 ### How to get these? [Read from here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/spotify)
@@ -77,7 +77,7 @@ Config vars are basically the variables which configure or modify bot to functio
 
 ## Custom Repo Vars
 
-- If you plan to use Champu Music Bot with your own customized or modified code.
+- If you plan to use 𝙰𝚂𝙷𝙾𝙺𝚇𝙶𝙷𝙾𝚂𝚃 Music Bot with your own customized or modified code.
 
 1. `UPSTREAM_REPO` : Your Upstream Repo URL or Forked Repo.
 2. `UPSTREAM_BRANCH` : Default Branch of your Upstream Repo URL or Forked Repo. 
@@ -88,8 +88,8 @@ Config vars are basically the variables which configure or modify bot to functio
 
 ## Images/Thumbnail Vars
 
-- You can change images which are used in Champu Music Bot.
-- You can generate telegaph links from [@TheKittyXD_Bot](http://t.me/TheKittyXD_Bot) and use it here.
+- You can change images which are used in 𝙰𝚂𝙷𝙾𝙺𝚇𝙶𝙷𝙾𝚂𝚃 Music Bot.
+- You can generate telegaph links.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
 2. `PING_IMG_URL` : Image which comes on /ping command of bot.
