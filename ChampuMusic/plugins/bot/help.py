@@ -328,8 +328,8 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             InlineKeyboardButton(text=" ᴏᴡɴᴇʀ ", user_id=config.OWNER_ID[0])
         ],
         [
-            InlineKeyboardButton(text=" ɪɴsᴛᴀ ", url=f"https://www.instagram.com/shivanshu_deo/"),
-            InlineKeyboardButton(text=" ʏᴏᴜᴛᴜʙᴇ ", url=f"https://www.youtube.com/@itsMeChampu"),
+            InlineKeyboardButton(text=" 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ", url=f"https://t.me/+HMHH1y96Sz1jMmVl"),
+            InlineKeyboardButton(text=" 𝙶𝚁𝙾𝚄𝙿 ", url=f"https://t.me/+ITKJ6qtpM0hiOGU9"),
         ],
         [
             InlineKeyboardButton(text="🔙 Back", callback_data="about")
@@ -473,7 +473,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
             InlineKeyboardButton(text="🎭ᴏᴡɴᴇʀ🎭", user_id=config.OWNER_ID[0]),
             InlineKeyboardButton(
                 text="🌱ɢɪᴛʜᴜʙ🌱",
-                url="https://github.com/TheChampu",
+                url="https://github.com/AshokChakravarthy666",
             ),
         ],
         [
