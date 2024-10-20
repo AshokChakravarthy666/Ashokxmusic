@@ -14,7 +14,7 @@ Config vars are basically the variables which configure or modify bot to functio
 4. `MONGO_DB_URI` : Get mongo db [from here.](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
 5. `LOGGER_ID` : You'll need a Private Group ID for this. Supergroup Needed with id starting from -100 
 6. `OWNER_ID` : Your Owner ID for managing your bot.
-7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
+7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [𝐃𝝰𝝸⃔⃕ɼ𝝲♡𝐌𝝸ℓᴋ 💗](http://t.me/dairymilksessionbot) in Telegram.
 
 
 ## Non-Mandatory Vars
@@ -109,7 +109,7 @@ Config vars are basically the variables which configure or modify bot to functio
 
 - You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
 
-1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
-2. `STRING_SESSION3` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
-3. `STRING_SESSION4` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
-4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
+1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [𝐃𝝰𝝸⃔⃕ɼ𝝲♡𝐌𝝸ℓᴋ 💗](http://t.me/dairymilksessionbot) in Telegram.
+2. `STRING_SESSION3` : Pyrogram Session Needed, Generate string from [𝐃𝝰𝝸⃔⃕ɼ𝝲♡𝐌𝝸ℓᴋ 💗](http://t.me/dairymilksessionbot) in Telegram.
+3. `STRING_SESSION4` : Pyrogram Session Needed, Generate string from [𝐃𝝰𝝸⃔⃕ɼ𝝲♡𝐌𝝸ℓᴋ 💗](http://t.me/dairymilksessionbot) in Telegram.
+4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from [𝐃𝝰𝝸⃔⃕ɼ𝝲♡𝐌𝝸ℓᴋ 💗](http://t.me/dairymilksessionbot) in Telegram.
